@@ -14,7 +14,10 @@ body {
   align-items: center;
   justify-items: center;
 }
-
+p{
+  font-size: 10px;
+  font-family: "Fjalla One";
+}
 .contact-us {
   background: #f8f4e5;
   padding: 50px 100px;
